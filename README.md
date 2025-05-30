@@ -41,7 +41,7 @@ Disfruto prototipar, testear ideas y aprender nuevas herramientas que me ayuden 
 
 ## 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/angela-cordero-c12)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-cordero-c12/)  
 [![Portfolio](https://img.shields.io/badge/Portafolio-Web-green?style=flat&logo=web&logoColor=white)](https://uxfol.io/804ecd98)
 
 ---
