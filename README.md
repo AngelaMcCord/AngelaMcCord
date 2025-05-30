@@ -11,7 +11,7 @@ Disfruto prototipar, testear ideas y aprender nuevas herramientas que me ayuden 
 
 ## 🌟 Proyectos Destacados
 
-- 🎓 [App de orientación vocacional](https://github.com/tuusuario/proyecto-vocacional): Aplicación UX pensada para ayudar a jóvenes a descubrir su carrera ideal, con enfoque en Design Thinking y usabilidad.
+- 🎓 [App de orientación vocacional](https://uxfol.io/804ecd98): Aplicación UX pensada para ayudar a jóvenes a descubrir su carrera ideal, con enfoque en Design Thinking y usabilidad.
 
 ---
 
@@ -46,7 +46,7 @@ Disfruto prototipar, testear ideas y aprender nuevas herramientas que me ayuden 
 
 ---
 
-¿Colaboremos?  
+¿Colaboramos? :D 
 Estoy abierta a proyectos, ideas y curiosidades ☕😉
 
 ---
